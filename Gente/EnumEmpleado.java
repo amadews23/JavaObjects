@@ -14,8 +14,6 @@ public enum EnumEmpleado {
     RESPONSABLE("Responsable de Atraccion",0.1F);
     
     final static float SUELDO_BASE = 950F; 
-
-    //private final int numeroTipoEmpleo = 0;
     private final String nombreEmpleo;
     private final float incrementoSueldo ;
     
